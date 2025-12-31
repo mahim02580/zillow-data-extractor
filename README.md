@@ -4,7 +4,7 @@ This script extracts rental listings (address, price, and property link) from a 
 
 ### What the Script Does
 
-* Sends a request to a Zillow-clone static webpage
+* Sends a request to a Zillow webpage
 
 * Scrapes:
 
