@@ -1,6 +1,6 @@
 # Zillow Data Extractor
 
-This script extracts rental listings (address, price, and property link) from a Zillow webpage and automatically submits each entry into a Google Form using Selenium.
+This script extracts rental listings (address, price, and property link) from a Zillow webpage and adds an entry to a Google Sheet by submitting each entry into a Google Form.
 
 ### What the Script Does
 
